@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+password.txt
+new.txt
+decrypt.txt
+*.swp
+*.swo
+*~
